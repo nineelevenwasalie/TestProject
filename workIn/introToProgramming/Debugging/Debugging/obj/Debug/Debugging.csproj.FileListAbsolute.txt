@@ -1,0 +1,6 @@
+H:\workIn\introToProgramming\Debugging\Debugging\bin\Debug\Debugging.exe.config
+H:\workIn\introToProgramming\Debugging\Debugging\bin\Debug\Debugging.exe
+H:\workIn\introToProgramming\Debugging\Debugging\bin\Debug\Debugging.pdb
+H:\workIn\introToProgramming\Debugging\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache
+H:\workIn\introToProgramming\Debugging\Debugging\obj\Debug\Debugging.exe
+H:\workIn\introToProgramming\Debugging\Debugging\obj\Debug\Debugging.pdb

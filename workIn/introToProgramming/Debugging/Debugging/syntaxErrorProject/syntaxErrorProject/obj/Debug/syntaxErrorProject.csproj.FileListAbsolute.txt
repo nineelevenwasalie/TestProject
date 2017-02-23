@@ -1,0 +1,6 @@
+H:\workIn\introToProgramming\Debugging\Debugging\syntaxErrorProject\syntaxErrorProject\bin\Debug\syntaxErrorProject.exe.config
+H:\workIn\introToProgramming\Debugging\Debugging\syntaxErrorProject\syntaxErrorProject\bin\Debug\syntaxErrorProject.exe
+H:\workIn\introToProgramming\Debugging\Debugging\syntaxErrorProject\syntaxErrorProject\bin\Debug\syntaxErrorProject.pdb
+H:\workIn\introToProgramming\Debugging\Debugging\syntaxErrorProject\syntaxErrorProject\obj\Debug\syntaxErrorProject.csprojResolveAssemblyReference.cache
+H:\workIn\introToProgramming\Debugging\Debugging\syntaxErrorProject\syntaxErrorProject\obj\Debug\syntaxErrorProject.exe
+H:\workIn\introToProgramming\Debugging\Debugging\syntaxErrorProject\syntaxErrorProject\obj\Debug\syntaxErrorProject.pdb
