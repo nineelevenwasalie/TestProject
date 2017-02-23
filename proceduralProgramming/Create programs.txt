@@ -1,0 +1,34 @@
+// using loops create mini programs that do the following (you can put them all in one project)
+
+//1
+//prints out all of the values from 1-100
+
+//2
+//prints out all even numbers between 1-100
+
+//3 
+//prints out all of the odd numbers between 1-100
+
+//4
+//prints out all of the values between 5 and 80
+
+//5
+//prints out all of the values counting down between 50 and 5
+
+//6 
+//asks the user for 2 numbers and prints out all of the values
+//between the two numbers
+
+//7
+// prints out the numbers 1-10, then prints out "I counted to 10, 1 times"
+// then does it again until it gets to "I counted to 10, 10 times"
+
+//8
+// asks the user for 2  numbers and print out all of the numbers between the numbers that are divisible by 3.  
+// use the % operator to find out if a number is divisible by 3.
+// the % operator will return the remainder so: 10%3 returns the remainder of 
+// 10/3 - > 10/3 is 3 and 1/3 so 10%3 returns 1.
+// this means 
+/* if(x%3 == 0){
+	print("number is divisible by 3");
+}*/

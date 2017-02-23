@@ -1,0 +1,43 @@
+Create a program that will do the following .
+Starts at 9 counts down to 0 printing each number then jumps to 19 and counts down to 10, then jumps to 29 and counts down to 20,  and continues this pattern ending with the last number printed being 90.
+ Example output:
+ 
+ 09
+ 08
+ 07
+ 06
+ 05
+ 04
+ 03
+ 02
+ 01
+ 00
+ 19
+ 18
+ 17
+ 16
+ 15
+ 14
+ 13
+ 12
+ 11
+ 10
+ 29
+ 28
+ 27
+ 26
+ 25
+ 24
+ 23
+ 22
+ 21
+ 20
+ 39
+ 38
+ ....
+ 95
+ 94
+ 93
+ 92
+ 91
+ 90

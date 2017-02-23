@@ -1,0 +1,6 @@
+H:\proceduralProgramming\whileLoopsToForLoops\whileLoopsToForLoops\bin\Debug\whileLoopsToForLoops.exe.config
+H:\proceduralProgramming\whileLoopsToForLoops\whileLoopsToForLoops\obj\Debug\whileLoopsToForLoops.csprojResolveAssemblyReference.cache
+H:\proceduralProgramming\whileLoopsToForLoops\whileLoopsToForLoops\bin\Debug\whileLoopsToForLoops.exe
+H:\proceduralProgramming\whileLoopsToForLoops\whileLoopsToForLoops\bin\Debug\whileLoopsToForLoops.pdb
+H:\proceduralProgramming\whileLoopsToForLoops\whileLoopsToForLoops\obj\Debug\whileLoopsToForLoops.exe
+H:\proceduralProgramming\whileLoopsToForLoops\whileLoopsToForLoops\obj\Debug\whileLoopsToForLoops.pdb

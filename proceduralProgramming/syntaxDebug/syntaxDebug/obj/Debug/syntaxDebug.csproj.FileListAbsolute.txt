@@ -1,0 +1,6 @@
+H:\proceduralProgramming\syntaxDebug\syntaxDebug\bin\Debug\syntaxDebug.exe.config
+H:\proceduralProgramming\syntaxDebug\syntaxDebug\bin\Debug\syntaxDebug.exe
+H:\proceduralProgramming\syntaxDebug\syntaxDebug\bin\Debug\syntaxDebug.pdb
+H:\proceduralProgramming\syntaxDebug\syntaxDebug\obj\Debug\syntaxDebug.csprojResolveAssemblyReference.cache
+H:\proceduralProgramming\syntaxDebug\syntaxDebug\obj\Debug\syntaxDebug.exe
+H:\proceduralProgramming\syntaxDebug\syntaxDebug\obj\Debug\syntaxDebug.pdb

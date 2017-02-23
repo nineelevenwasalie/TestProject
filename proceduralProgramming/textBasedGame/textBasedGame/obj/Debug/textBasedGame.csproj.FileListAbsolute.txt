@@ -1,0 +1,6 @@
+H:\proceduralProgramming\textBasedGame\textBasedGame\bin\Debug\textBasedGame.exe.config
+H:\proceduralProgramming\textBasedGame\textBasedGame\bin\Debug\textBasedGame.exe
+H:\proceduralProgramming\textBasedGame\textBasedGame\bin\Debug\textBasedGame.pdb
+H:\proceduralProgramming\textBasedGame\textBasedGame\obj\Debug\textBasedGame.csprojResolveAssemblyReference.cache
+H:\proceduralProgramming\textBasedGame\textBasedGame\obj\Debug\textBasedGame.exe
+H:\proceduralProgramming\textBasedGame\textBasedGame\obj\Debug\textBasedGame.pdb
